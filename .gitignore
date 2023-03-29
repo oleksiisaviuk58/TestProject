@@ -1,3 +1,6 @@
+# myfiles
+.data/*
+
 # globs
 Makefile.in
 *.userprefs

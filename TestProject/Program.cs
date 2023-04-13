@@ -1,3 +1,3 @@
-﻿Console.WriteLine("Hiii, World!");
+﻿Console.WriteLine("Hiii, TestProject!");
 
 Console.ReadLine();

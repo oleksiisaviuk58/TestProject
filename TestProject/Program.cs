@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Hiii, World!");
+Console.WriteLine("Hiii, TestProject!");
+
 Console.WriteLine("This`s new feature!");
 
 Console.ReadLine();

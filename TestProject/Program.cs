@@ -1,4 +1,4 @@
-Console.WriteLine("Hiii, TestProject!");
+Console.WriteLine("Heey, TestProject!");
 
 Console.WriteLine("Brrrr!!!!!!!!!!!!!");
 

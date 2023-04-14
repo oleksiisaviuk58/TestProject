@@ -1,3 +1,3 @@
-Console.WriteLine("Heey, this is TestProject!");
+Console.WriteLine("Heello:)");
 
 Console.ReadLine();

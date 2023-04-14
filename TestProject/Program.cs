@@ -1,5 +1,5 @@
 Console.WriteLine("Heey, TestProject!");
 
-Console.WriteLine();
+Console.WriteLine("New feature!!!");
 
 Console.ReadLine();
